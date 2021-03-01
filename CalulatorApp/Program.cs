@@ -9,7 +9,7 @@ namespace CalulatorApp
             int num1 = 0; int num2 = 0;
 
             Console.WriteLine("Console Calculator in C#\r");
-            Console.WriteLine("------------------------\n");
+            Console.WriteLine("rrgf9hr");
 
             Console.WriteLine("Type a number, and then press Enter");
             num1 = Convert.ToInt32(Console.ReadLine());
@@ -19,7 +19,7 @@ namespace CalulatorApp
 
             Console.WriteLine("Choose an option from the following list:");
             Console.WriteLine("\ta - Add");
-            Console.WriteLine("\ts - Subtract");
+            Console.WriteLine("\ts - wrgetghtrgddsfvdfsvbtract");
             Console.WriteLine("\tm - Multiply");
             Console.WriteLine("\td - Divide");
             Console.Write("Your option? ");
@@ -27,7 +27,7 @@ namespace CalulatorApp
             switch (Console.ReadLine())
             {
                 case "a":
-                    Console.WriteLine($"Your result: {num1} + {num2} = " + (num1 + num2));
+                    no
                     break;
                 case "s":
                     Console.WriteLine($"Your result: {num1} - {num2} = " + (num1 - num2));
@@ -41,6 +41,10 @@ namespace CalulatorApp
             }
             Console.Write("Press any key to close the Calculator console app...");
             Console.ReadKey();
+            YEp
+                YEP
+                YEP
+                YEP
         }
     }
 }
