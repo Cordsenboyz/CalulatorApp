@@ -39,7 +39,7 @@ namespace CalulatorApp
                     Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
                     break;
             }
-            Console.Write("Press any key to close the Calculator console app...");
+            Console.Write("Press any key to close the Calculator console app.................");
             Console.ReadKey();
         }
     }
