@@ -42,5 +42,10 @@ namespace CalulatorApp
             Console.Write("Press any key to close the Calculator console app.................");
             Console.ReadKey();
         }
+
+        static void TESTMERGE(string[] args)
+        {
+            int num1 = 0; int num2 = 0;
+
+        }
     }
-}
