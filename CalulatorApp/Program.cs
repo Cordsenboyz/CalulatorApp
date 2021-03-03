@@ -6,15 +6,7 @@ namespace CalulatorApp
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
             Console.WriteLine("Hello World!");
-=======
->>>>>>> parent of 34bda9d (Update Program.cs)
->>>>>>> tester
             int num1 = 0; int num2 = 0;
 
             Console.WriteLine("BITCH");
@@ -56,21 +48,11 @@ namespace CalulatorApp
             }
             Console.Write("Press any key to close the Calculator console app.................");
             Console.ReadKey();
-<<<<<<< HEAD
+
         }
 
         static void TESTMERGE(string[] args)
         {
             int num1 = 0; int num2 = 0;
-
-=======
-<<<<<<< HEAD
-=======
-            Console.WriteLine("Hello World!");
->>>>>>> parent of 638153b (Update Program.cs)
-=======
->>>>>>> parent of f578b95 ([TEST])
->>>>>>> parent of 34bda9d (Update Program.cs)
->>>>>>> tester
         }
     }
