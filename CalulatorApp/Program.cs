@@ -14,33 +14,39 @@ namespace CalulatorApp
 >>>>>>> parent of 34bda9d (Update Program.cs)
             int num1 = 0; int num2 = 0;
 
-            Console.WriteLine("Console Calculator in C#\r");
+            Console.WriteLine("BITCH");
             Console.WriteLine("------------------------\n");
 
             Console.WriteLine("Type a number, and then press Enter");
             num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Type another number, and then press Enter");
-            num2 = Convert.ToInt32(Console.ReadLine());
+                            ,--.
+                           { }
+                          K,   }
+                          /  ~Y`
+                     ,   /   /
+                    {_'-K.__/
+                      `/-.__L._
+                      /  ' /`\_}
+                     /  ' /
+             ____   /  ' /
+      ,-'~~~~    ~~/  ' /_
+    ,'             ``~~~  ',
+   (Y
+  {                         I
+ {      -                    `,
+ |       ',                   )
+ |        |   ,..__ __.Y
+ |    ., _./  Y ' / ^Y   J   )|
+ \           |' /   |   |   ||
+  \          L_/    . _ (_,.'(
+   \,   ,      ^^""' / |      )
+     \_  \          /, L]     /
+       '-_~-,       ` `   ./`
+          `'{_            )
+              ^^\..___,.--`
 
-            Console.WriteLine("Choose an option from the following list:");
-            Console.WriteLine("\ta - Add");
-            Console.WriteLine("\ts - Subtract");
-            Console.WriteLine("\tm - Multiply");
-            Console.WriteLine("\td - Divide");
-            Console.Write("Your option? ");
 
-            switch (Console.ReadLine())
-            {
-                case "a":
-                    Console.WriteLine($"Your result: {num1} + {num2} = " + (num1 + num2));
-                    break;
-                case "s":
-                    Console.WriteLine($"Your result: {num1} - {num2} = " + (num1 - num2));
-                    break;
-                case "m":
-                    Console.WriteLine($"Your result: {num1} * {num2} = " + (num1 * num2));
-                    break;
                 case "d":
                     Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
                     break;
