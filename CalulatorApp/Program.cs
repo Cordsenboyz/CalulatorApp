@@ -6,6 +6,7 @@ namespace CalulatorApp
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             int num1 = 0; int num2 = 0;
 
             Console.WriteLine("Console Calculator in C#\r");
@@ -41,6 +42,9 @@ namespace CalulatorApp
             }
             Console.Write("Press any key to close the Calculator console app.................");
             Console.ReadKey();
+=======
+            Console.WriteLine("Hello World!");
+>>>>>>> parent of 638153b (Update Program.cs)
         }
     }
 }
