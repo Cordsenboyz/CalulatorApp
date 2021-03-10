@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
- 
+            // Variables for user input
             int num1 = 0; int num2 = 0;
 
 
