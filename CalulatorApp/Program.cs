@@ -29,7 +29,8 @@ namespace Calculator
             Console.WriteLine("\td - Divide");
             Console.Write("Your option? ");
 
-
+            // Take user input and convert to mathematical symbol
+            // Use Mathematical symbol to get results from the two user inputs and write result in console
             switch (Console.ReadLine())
             {
                 case "a":
